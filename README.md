@@ -1,0 +1,2 @@
+# curseC
+Course in C
